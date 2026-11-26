@@ -1,0 +1,1 @@
+# active-directory-hardened-lab
